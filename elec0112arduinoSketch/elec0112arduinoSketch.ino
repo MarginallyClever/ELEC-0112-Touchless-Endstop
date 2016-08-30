@@ -2,6 +2,11 @@
 // 2016-08-30 Lingkang Zhang <lingkangzhang@gmail.com>
 // www.marginallyclever.com
 
+// Connect sensor pin S pin to Arduino pin 9.
+// Connect sensor pin V pin to Arduino pin 5v.
+// Connect sensor pin G pin to Arduino pin GND.
+
+
 int LED_PIN = 13;
 int IR_PIN = 9;
 
